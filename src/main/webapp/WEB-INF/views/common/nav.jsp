@@ -144,7 +144,7 @@
                     </a>
                 </li>
                 <li class="gnb">
-                    <a href="../calendar/list" class="">
+                    <a href="">
                         <span class="gnbIcon">
                             <svg class="gnbIcon text-skin">
                                 <use href="#calendar_date_22"></use>
@@ -154,7 +154,7 @@
                     </a>
                 </li>
                 <li class="gnb">
-                    <a href="../meeting/list">
+                    <a href="">
                         <span class="gnbIcon">
                             <svg class="gnbIcon text-skin">
                                 <use href="#topReserve"></use>
@@ -164,7 +164,7 @@
                     </a>
                 </li>
                 <li class="gnb">
-                    <a href="../attendance/list">
+                    <a href="">
                         <span class="gnbIcon">
                             <svg class="gnbIcon text-skin">
                                 <use href="#topWorknote"></use>
@@ -175,11 +175,11 @@
                 </li>
                 <li class="gnb">
                     <a href="">
-                        <span class="gnbIcon">
-                            <svg class="gnbIcon text-skin">
-                                <use href="#topEas"></use>
-                            </svg>
-                        </span>
+                                        <span class="gnbIcon">
+                                            <svg class="gnbIcon text-skin">
+                                                <use href="#topEas"></use>
+                                            </svg>
+                                        </span>
                         <span class="gnbText">결재</span>
                     </a>
                 </li>
@@ -204,7 +204,7 @@
                     </a>
                 </li>
                 <li class="gnb">
-                    <a href="../archive/list">
+                    <a href="">
                         <span class="gnbIcon">
                             <svg class="gnbIcon text-skin">
                                 <use href="#topWebhard"></use>
