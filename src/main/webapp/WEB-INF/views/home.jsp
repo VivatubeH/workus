@@ -12,7 +12,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <%@ include file="common/common.jsp" %>
-    <title>workus ㅣ 중앙HTA 2404기 2조 FINAL PROJECT</title>
+    <title>workus</title>
 </head>
 <body>
     <c:set var="menu" value="home"/>

@@ -144,7 +144,7 @@
                     </a>
                 </li>
                 <li class="gnb">
-                    <a href="">
+                    <a href="../calendar/list" class="">
                         <span class="gnbIcon">
                             <svg class="gnbIcon text-skin">
                                 <use href="#calendar_date_22"></use>
@@ -154,7 +154,7 @@
                     </a>
                 </li>
                 <li class="gnb">
-                    <a href="">
+                    <a href="../meeting/list">
                         <span class="gnbIcon">
                             <svg class="gnbIcon text-skin">
                                 <use href="#topReserve"></use>
@@ -164,7 +164,7 @@
                     </a>
                 </li>
                 <li class="gnb">
-                    <a href="/attendance/list">
+                    <a href="../attendance/list">
                         <span class="gnbIcon">
                             <svg class="gnbIcon text-skin">
                                 <use href="#topWorknote"></use>
@@ -204,7 +204,7 @@
                     </a>
                 </li>
                 <li class="gnb">
-                    <a href="">
+                    <a href="../archive/list">
                         <span class="gnbIcon">
                             <svg class="gnbIcon text-skin">
                                 <use href="#topWebhard"></use>

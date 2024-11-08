@@ -1,7 +1,7 @@
 <%@ page pageEncoding="UTF-8"%>
 <%@ include file="tags.jsp" %>
 <header class="layout header">
-    <a href="" class="logo">
+    <a href="/home" class="logo">
         <span>WORKUS</span>
     </a>
     <div class="globalMenu">
