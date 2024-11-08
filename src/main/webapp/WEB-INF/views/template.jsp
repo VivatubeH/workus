@@ -1,20 +1,20 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
-<%@ include file="common/tags.jsp" %>
+<%@ include file="../common/tags.jsp" %>
 <!doctype html>
 <html lang="ko">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<%@ include file="common/common.jsp" %>
+<%@ include file="../common/common.jsp" %>
 <title>workus template</title>
 </head>
 <body>
 	<div id="divWrapper">
 		<div id="divContents">
-			<%@ include file="common/header.jsp" %>
+			<%@ include file="../common/header.jsp" %>
 			<section class="verticalLayoutFixedSection">
-				<%@ include file="common/nav.jsp" %>
+				<%@ include file="../common/nav.jsp" %>
 				<div class="lnb">
 					<ul class="">
 						<li class="">
