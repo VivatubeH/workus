@@ -144,7 +144,7 @@
                     </a>
                 </li>
                 <li class="gnb">
-                    <a href="">
+                    <a href="../calendar/list" class="">
                         <span class="gnbIcon">
                             <svg class="gnbIcon text-skin">
                                 <use href="#calendar_date_22"></use>
@@ -154,7 +154,7 @@
                     </a>
                 </li>
                 <li class="gnb">
-                    <a href="">
+                    <a href="../meeting/list">
                         <span class="gnbIcon">
                             <svg class="gnbIcon text-skin">
                                 <use href="#topReserve"></use>
@@ -175,11 +175,11 @@
                 </li>
                 <li class="gnb">
                     <a href="">
-                                        <span class="gnbIcon">
-                                            <svg class="gnbIcon text-skin">
-                                                <use href="#topEas"></use>
-                                            </svg>
-                                        </span>
+                        <span class="gnbIcon">
+                            <svg class="gnbIcon text-skin">
+                                <use href="#topEas"></use>
+                            </svg>
+                        </span>
                         <span class="gnbText">결재</span>
                     </a>
                 </li>
@@ -204,7 +204,7 @@
                     </a>
                 </li>
                 <li class="gnb">
-                    <a href="">
+                    <a href="../archive/list">
                         <span class="gnbIcon">
                             <svg class="gnbIcon text-skin">
                                 <use href="#topWebhard"></use>

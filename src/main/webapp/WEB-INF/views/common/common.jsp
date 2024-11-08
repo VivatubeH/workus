@@ -7,4 +7,6 @@
 <!-- fullcalendar CDN -->
 <link href='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/main.min.css' rel='stylesheet' />
 <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
-
+<script type="module">
+    import fullcalendarScheduler from 'https://cdn.jsdelivr.net/npm/fullcalendar-scheduler@6.1.15/+esm'
+</script>
