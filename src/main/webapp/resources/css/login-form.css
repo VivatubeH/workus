@@ -8,6 +8,9 @@ body {
     max-width: 680px;
     width: 80%;
     margin: 120px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0;
 }
 
 h1 {
@@ -148,11 +151,11 @@ form {
         cursor: pointer;
         font-size: 14px;
         font-family: 'Montserrat', sans-serif;
-        box-shadow: 0 15px 30px rgba(233, 30, 99, 0.36);
+        box-shadow: 0 0px 0px rgba(233, 30, 99, 0.36);
         transition: .2s linear;
 
         &:hover {
-            box-shadow: 0 0 0 rgba(233, 30, 99, 0);
+            box-shadow: 0 15px 30px rgba(233, 30, 99, 0);
         }
     }
 }
@@ -207,7 +210,7 @@ form {
     &.google__btn {
         background: #5b90f0;
         color: white;
-        box-shadow: 0 15px 30px rgba(91, 144, 240, 0.36);
+        box-shadow: 0 0px 0px rgba(91, 144, 240, 0.36);
         transition: .2s linear;
 
         .fa {
@@ -216,14 +219,14 @@ form {
         }
 
         &:hover {
-            box-shadow: 0 0 0 rgba(91, 144, 240, 0);
+            box-shadow: 0 15px 30px rgba(91, 144, 240, 0);
         }
     }
 
     &.github__btn {
         background: #25282d;
         color: white;
-        box-shadow: 0 15px 30px rgba(37, 40, 45, 0.36);
+        box-shadow: 0 0px 0px rgba(37, 40, 45, 0.36);
         transition: .2s linear;
 
         .fa {
@@ -232,7 +235,7 @@ form {
         }
 
         &:hover {
-            box-shadow: 0 0 0 rgba(37, 40, 45, 0);
+            box-shadow: 0 15px 30px rgba(37, 40, 45, 0);
         }
     }
 }
