@@ -48,11 +48,11 @@
     </div>
 </div>
 <!-- Modal -->
-<div class="modal" id="meetingModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="calendarModalLabel" aria-hidden="true">
+<div class="modal" id="meetModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="calendarModalLabel" aria-hidden="true">
     <div class="modal-dialog row mb-3 modal-dialog-centered modal-lg">
         <div class="modal-content col-12">
             <div class="modal-header">
-                <h5 class="modal-title" id="meetingModalLabel">회의실 예약하기</h5>
+                <h5 class="modal-title" id="meetModalLabel">회의실 예약하기</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <form method="dialog">
