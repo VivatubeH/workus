@@ -32,10 +32,10 @@
                         </div>
                         <div class="mainSectionHalf">
                             <!-- 채팅 -->
+                            <c:if test="${not empty chatroomDto}">
                             <div class="grid-item" id="chatting-section">
                                 <h2 class="sectionTit">최근 채팅</h2>
                                 <div>
-                                <c:if test="${not empty chatroomDto}">
                                     <div class="border chatMain rounded p-3 mb-3 bg-white" id="chatroom" role="button" data-chatroom-no="${chatroomDto.chatroomNo}">
                                         <div class="d-flex justify-content-between align-items-start">
                                             <div>
@@ -54,9 +54,9 @@
                                         </div>
 
                                     </div>
-                                    </c:if>
                                 </div>
                             </div>
+                            </c:if>
                             <%-- community --%>
                             <div class="grid-item" id="community-section">
                                 <div>
