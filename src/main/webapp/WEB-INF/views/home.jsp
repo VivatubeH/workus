@@ -60,7 +60,7 @@
                             <%-- community --%>
                             <div class="grid-item" id="community-section">
                                 <div>
-                                    <h2 class="sectionTit"><a href="community/list">Wokrus Community 📰</a></h2>
+                                    <h2 class="sectionTit"><a href="community/list">Workus Community 📰</a></h2>
                                     <div class="communityText">
                                         <div class="d-flex align-items-center justify-content-between titleBox">
                                             <span class="tit">${feed.title}</span>
